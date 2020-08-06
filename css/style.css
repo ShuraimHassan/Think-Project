@@ -1,0 +1,19 @@
+.bgimage{
+  background: url(/images/pexels-nextvoyage-1470405.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 1048px;
+  filter: blur(70%);
+  filter: blur(70%);
+  
+  /* background: rgba(223, 10, 10, 0.349); */
+}
+#para{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  text-align: center;
+  /* background: rgba(238, 44, 5, 0.404); */
+}
+
